@@ -48,7 +48,7 @@ KELAS: TIF 222 K
 - Hasilkan struk yang akan disimpan sebagai PDF.
 
 ## Berkontribusi
-Kontribusi untuk proyek UTS_ADZIBILAL sangat diterima. Pastikan untuk mengikuti standar pemrograman dan mengirimkan permintaan tarik untuk ditinjau.
+Kontribusi untuk proyek UTS_ADZIBILAL sangat diterima. Pastikan untuk mengikuti standar pemrograman dan mengirimkan pull request untuk ditinjau.
 
 ## Lisensi
 Proyek ini dilisensikan di bawah Lisensi MIT - lihat file LICENSE untuk detailnya.
