@@ -11,6 +11,8 @@ NIM: 22552011164
 
 KELAS: TIF 222 K
 
+Demo Video: https://youtu.be/eqQasA_F-ds
+
 ## Fitur
 - Pemilihan produk dari daftar yang telah ditentukan.
 - Penyesuaian jumlah untuk produk yang dipilih.
